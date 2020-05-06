@@ -1,0 +1,31 @@
+- url: https://www.youtube.com/channel/UCOU8bNABeA4EaXrfcpXeguw
+  name: H1Z1 Atlas
+  summary: Google Maps for the video game H1Z1 Atlas. It received roughly 300k page views in the first month.
+  featuredImage: images/h1z1.jpeg
+- url: https://github.com/benjaminRomano/bottom-dock
+  name: Bottom-Dock
+  summary: Extensible pane framework the Atom text editor built before Atom's Panes API was introduced. I built accompanying linter, gulp, todo and grunt pane packages and got 60k downloads.
+  featuredImage: images/bottomDock.png
+- url: https://github.com/SpiderDB/SpiderDB
+  name: SpiderDB
+  summary: NoSQL document store with mongoDB-like query langauge and rollback features built for my databases grad course
+  featuredImage: images/spiderDB.png
+  tags: ['db']
+- url: https://medium.com/@petershin45/don-t-make-something-people-want-make-something-the-world-needs-d840ad083b86
+  name: 1st Place Startup Weekend Immigration 2015
+  summary: Won first place at Startup Weekend Immigration with the idea, Settled. A personal assistant for complex admin processes when settling abroad
+  featuredImage: images/startupWeekend.jpeg
+- url: https://www.researchgate.net/publication/316949397_Managing_the_Internet_of_Things
+  name: 'Wendo: Managing the Internet of Things'
+  featuredImage: images/wendo.png
+  summary: Explored a system to allow non-programmers to link together their IoT devices. Paper published in 2017 ACM SIGCSE Technical Symposium
+- url: https://www.researchgate.net/publication/327634813_Visualizing_Traffic_Accident_Hotspots_Based_on_Spatial-Temporal_Network_Kernel_Density_Estimation
+  name: Visualizing Traffic Accident Hotspots Based on Spatial-Temporal Network Kernel Density Estimation
+  summary: Implemented an algorithm for visualizing traffic accidents in NYC spatially and temporally. Paper published in 25th ACM SIGSPATIAL International Conference
+  featuredImage: images/stnkde.png
+- url: https://github.com/benjaminRomano/retroJS
+  name: Typings-Installer
+  summary: A VS Code extension to search and install typings using TSD or Typings (Both of which are now deprecated 😝) which was downloaded 23k times
+- url: https://github.com/benjaminRomano/retroJS
+  name: RetroJS
+  summary: RetroJS is a simple HTTP Client for JavaScript that heavily uses ES2016 decorators. Inspired by Retrofit

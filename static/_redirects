@@ -1,0 +1,4 @@
+# Add redirects here, useful for doing a go-link style setup
+# Sytnax is the following:
+# /<path> <url>
+/attributed-everything https://www.droidcon.com/media-detail?video=380845292
