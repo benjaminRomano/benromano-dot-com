@@ -30,7 +30,6 @@ const Profile: FC<ProfileProps> = () => {
           Mercedes-Benz and Supply Chain Optimizations at Amazon. Most recently, I worked at Snap where I focused on
           Android app performance and developer experience.
         </p>
-        <p sx={{ fontFamily: `Georgia, serif` }}>Now, I'm working on a startup.</p>
       </Box>
     </Layout>
   )
