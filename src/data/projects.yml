@@ -4,7 +4,7 @@
   featuredImage: images/h1z1.jpeg
 - url: https://github.com/benjaminRomano/bottom-dock
   name: Bottom-Dock
-  summary: Extensible pane framework the Atom text editor built before Atom's Panes API was introduced. I built accompanying linter, gulp, todo and grunt pane packages and got 60k downloads.
+  summary: Extensible pane framework for the Atom text editor built before Atom's Panes API was introduced. I built accompanying linter, gulp, todo and grunt pane packages and got 60k downloads.
   featuredImage: images/bottomDock.png
 - url: https://github.com/SpiderDB/SpiderDB
   name: SpiderDB
@@ -15,6 +15,10 @@
   name: 1st Place Startup Weekend Immigration 2015
   summary: Won first place at Startup Weekend Immigration with the idea, Settled. A personal assistant for complex admin processes when settling abroad
   featuredImage: images/startupWeekend.jpeg
+- url: https://www.ua.edu/news/2015/04/ua-event-sparks-business-ideas-for-the-backyard-websites-breast-cancer-detection/
+  name: 1st Place Startup Weekend Tuscaloosa 2019
+  summary: Prototyped a notification service that tracks updates on websites that matter to you. It’s built right into browsers and tracking new content is as easy as point and click
+  featuredImage: images/buzr.jpg
 - url: https://www.researchgate.net/publication/316949397_Managing_the_Internet_of_Things
   name: 'Wendo: Managing the Internet of Things'
   featuredImage: images/wendo.png

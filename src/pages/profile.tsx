@@ -27,8 +27,8 @@ const Profile: FC<ProfileProps> = () => {
         <p sx={{ fontFamily: `Georgia, serif` }}>
           I've been programming since my early teens with my first job in EdTech at Renaissance Learning in the small
           town of Wisconsin Rapids, Wisconsin. Since then I've had the opportunity to work all along the West Coast
-          doing data visualizations at Mercedes-Benz in the bay area and Supply Chain Optimizations at Amazon in
-          Seattle. Currently, I live in Los Angeles and work at Snap where I focus on Android app performance and
+          doing data visualizations at Mercedes-Benz in the Bay Area and Supply Chain Optimization Technology at Amazon
+          in Seattle. Currently, I live in Los Angeles and work at Snap where I focus on Android app performance and
           developer experience.
         </p>
       </Box>
